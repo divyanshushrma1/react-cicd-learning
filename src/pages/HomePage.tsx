@@ -1,0 +1,11 @@
+import React from 'react'
+
+export default function HomePage() {
+  return (
+    <div>
+      <div className='px-4 py-4 text-3xl font-bold'>
+        React CI/CD Learning
+      </div>
+    </div>
+  )
+}
